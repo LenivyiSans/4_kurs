@@ -14,3 +14,6 @@ def nowdate_view(request):
 
 def goodbyView(request):
     return HttpResponse("<h1>Goodby user</h1>")
+
+
+'''rrr'''
